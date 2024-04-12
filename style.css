@@ -1,0 +1,23 @@
+.texs1{ text-align: center;
+    color: rgb(144, 147, 147);
+
+}
+
+
+.texs{
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+text-align: center;
+margin-top: 83px;
+}
+footer{ 
+    margin-top: 83px;
+    text-align: center;
+    color: rgb(144, 147, 147);
+}
+.img{
+ border-radius:200px;
+ width: -100px;
+ height: 299px;
+}
